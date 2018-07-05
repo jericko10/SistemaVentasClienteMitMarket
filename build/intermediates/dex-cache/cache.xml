@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\10e7afe5238a6c719a9819ff7808fdd281641bf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_d4620be6f4b3a8278959f6fc1967e0d9fbde3725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\common-1.0.0_9b20a4ed44dafb01551a2ecab9c4ce4e0c9b7ebf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="404f08a2d37b39698fa31ff7f818aae606342855">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_87d9b6785e005cf3b1f6d387b25231094aae1db3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\common-1.0.0_115d091bc365c62e6279c15ce2ae329fa8028964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\0901caf9b7f010bf0cdf09fffcf60650b66359f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_44e22ab352ee2ae439b19811b5a325ed4ca7aaa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4aeae1224084d66b279766ce0f6c9bf06942127e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_598ba25ba8f5a97e8872a462ba283b879da24c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\dbaf55724d6e40de893d4d072223b6c42714cd65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_ee644338523e715d32bfa616d783799db7def2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\2f4f428a9cb71260a1b72a1ff8f26f3116e4db95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_9c157e9c2535a97aee1a8326380a832d7ce526ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\core-3.2.0_c0d5e06671ced25b22c0efff935dfe20ee6c4d9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\fc9279c29c03bf8c6bf4871a3226b21690fca606\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_4503d1e29c34955493c797fc62ab9b7bf4d16934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\41d8c577e176913011e9c0b38f8e9b8ec6c3783a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_0ccc2020229812f8969c9d9c51eb5c5c67311b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_77bed3222c2282402f476fcb19c1e3a3552a5fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\6c2e84f49875884d76d4fcc5914cee4813ea9f3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_e94dd89d2c6b183ccd59998496c1aae642f964b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\dcaf86a9caa43d2e4cea8a6f27bcd7e3092c356a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_72a407a09835cba2b67d578fbc0248ae64574fa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\a7012a24bc4df98d4f68b4036f4189bfd84d073c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ccebde0751b6bb647deceb712da1190ccacf16c9">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_254d95bf53a7b36aae64978682a6045a809ac79a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\2dbe07c10f8c5a9a53093d284d105bd178dadce0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_97889b4ba274456da684acafb78d2fa9eb1b343e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\14767757c165baac157d1fc976e5f1741a8a1e94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_ec66c37f8f10a24f30c9a55e3933b9d201a71bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\859775f6ed3d05961631a4c285756ed416b70bc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e82f095c7851caca39f7c23942ed2b318d843476">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_7732bfb741ad3c84e2ea8a624560a36dd74daa52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_4efaf613ad54201c9cf16acae44b9b9b42d05db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_48bcbaf9e722ef81f38ffb94bb029913d3424af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.gradle\caches\modules-2\files-2.1\com.googlecode.json-simple\json-simple\1.1\5e303a03d04e6788dddfa3655272580ae0fc13bb\json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\json-simple-1.1_92d1d4d9eb3a8bb2323fa03497b9321b05607dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maest\.android\build-cache\56e76178b1e69d4e7e1c6f66ccd5f07e62729613\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\maest\Documents\SistemaVentasCliente\app\build\intermediates\pre-dexed\debug\classes_0d303fcb339430a2fe53a39040716069fd17d2bc.jar" />
+    </item>
+
+</items>
